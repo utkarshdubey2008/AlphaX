@@ -1,0 +1,10 @@
+AlphaX/
+├── bot.py
+├── plugins/
+│   └── __init__.py
+├── requirements.txt
+├── Procfile
+├── Dockerfile
+├── .env
+├── README.md
+└── runtime.txt
